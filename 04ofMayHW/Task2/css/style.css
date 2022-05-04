@@ -1,0 +1,36 @@
+.container {
+    max-width: 1200px;
+    margin: auto;
+}
+.header {
+    background-color: black;
+    height: 80px;
+    margin: 0 auto;
+    text-align: center;
+}
+.hero {
+    background-color: #ED6A5A;
+    height: 360px;
+    margin: 0 auto;
+    text-align: center;
+}
+.menu {
+    height: 500px;
+    background-color: #F4F1BB;
+}
+.main {
+    height: 250px;
+    background-color: #E6EBE0;
+}
+.banner {
+    height: 125px;
+    background-color: #36C9C6;
+}
+.extra{
+    height: 125px;
+    background-color: #9BC1BC;
+}
+.image {
+    height: 125px;
+    background-color: #ED6A5A;
+}

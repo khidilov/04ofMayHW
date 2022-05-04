@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: 0px;
+}
+.container {
+    background-color: #B6A6CA;
+    max-width: 1300px;
+    margin: auto;
+}
+
+.box {
+    background-color: #EAD5E6;
+    height: 200px;
+    margin: 10px;
+}
+.box.big{
+    height: 420px;
+}
